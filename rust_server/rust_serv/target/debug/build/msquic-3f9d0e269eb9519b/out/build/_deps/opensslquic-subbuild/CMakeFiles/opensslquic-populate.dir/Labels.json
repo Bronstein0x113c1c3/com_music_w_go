@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate-complete.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-build.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-configure.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-download.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-install.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-patch.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-test.rule"
+		},
+		{
+			"file" : "/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/build/msquic-3f9d0e269eb9519b/out/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opensslquic-populate"
+		],
+		"name" : "opensslquic-populate"
+	}
+}

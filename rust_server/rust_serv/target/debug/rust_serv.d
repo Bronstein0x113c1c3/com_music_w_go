@@ -1,0 +1,1 @@
+/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/rust_serv: /home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/src/main.rs

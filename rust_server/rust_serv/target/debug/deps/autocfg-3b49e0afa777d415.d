@@ -1,0 +1,10 @@
+/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/deps/autocfg-3b49e0afa777d415.d: /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/deps/libautocfg-3b49e0afa777d415.rlib: /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/deps/libautocfg-3b49e0afa777d415.rmeta: /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs:
+/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs:
+/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs:
+/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs:

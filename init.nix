@@ -11,6 +11,12 @@ mkShell {
     delve
     pkg-config
     alsa-lib
+    portaudio
+    mpg123
+    libmsquic
+    rustup
+    openssl
+    cmake
   ];
 }
 
