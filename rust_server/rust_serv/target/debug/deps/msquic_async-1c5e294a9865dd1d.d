@@ -1,9 +1,0 @@
-/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/deps/msquic_async-1c5e294a9865dd1d.d: /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/lib.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/buffer.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/connection.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/listener.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/stream.rs
-
-/home/jonathan0x113c1c3/Documents/com_music_w_go/rust_server/rust_serv/target/debug/deps/libmsquic_async-1c5e294a9865dd1d.rmeta: /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/lib.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/buffer.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/connection.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/listener.rs /home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/stream.rs
-
-/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/lib.rs:
-/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/buffer.rs:
-/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/connection.rs:
-/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/listener.rs:
-/home/jonathan0x113c1c3/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/msquic-async-0.3.0/src/stream.rs:
